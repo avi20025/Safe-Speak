@@ -129,7 +129,7 @@ export default function Home() {
                 >
                   <img
                     src={result.FeatureDistributionPlotURL}
-                    alt="Model Plots"
+                    alt="Feature Distribution Plots"
                     className="rounded-md"
                   />
                 </div>
@@ -149,7 +149,7 @@ export default function Home() {
                 >
                   <img
                     src={result.FeatureImportancePlotURL}
-                    alt="Feature Importance"
+                    alt="Feature Importance Plots"
                     className="rounded-md"
                   />
                 </div>
